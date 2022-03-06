@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there
+
+🔭 I’m currently working on ...
+ - Designing distributed backends
+ - Microservices development, support and deployment
+
+
+🌱 I’m currently learning ...
+- DevOps, DevSecOps and GitOps best practices
+- Distributed System Design 
 
 <!--
 **mohsin-mehmood/mohsin-mehmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
